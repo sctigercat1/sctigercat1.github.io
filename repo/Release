@@ -1,0 +1,8 @@
+Origin: sctigercat1's repo
+Label: sctigercat1's repo
+Suite: stable
+Version: 1.0
+Codename: crazydog
+Architectures: iphoneos-arm
+Components: main
+Description: sctigercat1's Cydia Repository
