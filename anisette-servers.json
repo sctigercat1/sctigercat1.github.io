@@ -1,0 +1,8 @@
+{
+    "servers": [
+        {
+            "name": "my server",
+            "address": "http://10.0.1.14:6969"
+        }
+    ]
+}
